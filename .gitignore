@@ -1,0 +1,13 @@
+# You don't need it
+*private*
+*PRIVATE*
+*.py*
+*.luac
+*.o
+*.out
+*.log
+*.tmp
+*log*
+
+# Ignore IDE files
+*vscode*
